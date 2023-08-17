@@ -67,9 +67,8 @@ p {
     color: #4a5759;
 }
 
-
 .hidden {
-    /* display: none; */
+    display: none;
 }
 
 .overlay {
